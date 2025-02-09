@@ -4,6 +4,7 @@ const restartButton = document.getElementById('restart-btn');
 const flipSound = document.getElementById('flip-sound');
 const winSound = document.getElementById('win-sound');
 
+
 // Card Values (Cute Emojis)
 const cardValues = ['🐰', '🐶', '🐱', '🦄', '🐼', '🐹', '🐥', '🐸'];
 let cards = [...cardValues, ...cardValues];
